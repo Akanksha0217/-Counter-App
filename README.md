@@ -19,5 +19,5 @@ It allows the user to **Increase, Decrease, and Reset** the counter with button 
   
 ---
 ## demo
-()
+('https://melodic-nasturtium-fc5e52.netlify.app/')
 
